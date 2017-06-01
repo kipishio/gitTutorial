@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 kak tak
+=======
+bhgjhgjhgjggjkgjhgjkgkjgjhg
+>>>>>>> c390d4e72f63fbdc1cbd34d5845274546b4d448f
